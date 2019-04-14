@@ -1,0 +1,32 @@
+---
+MetaDataFormat: "yaml"
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+builddrafts: false
+buildFuture: true
+pygmentsuseclasses: true
+baseurl: "https://kbkaylan.net/"
+title: "kbkaylan.net"
+CanonifyUrls: true
+rssLimit: 20
+taxonomy:
+    category: "categories"
+menu:
+  main:
+      - Name: "Publications"
+        URL: "/publications"
+        Weight: 2
+      - Name: "Resources"
+        URL: "/resources"
+        Weight: 3
+      - Name: "Teaching"
+        URL: "/teaching"
+        Weight: 4
+      - Name: "Blog"
+        URL: "/blog"
+        Weight: 5
+permalinks:
+  blog: /blog/archives/:year/:month/:day/:slug
+  archive: /blog/archives/
+...
