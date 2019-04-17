@@ -1,0 +1,15 @@
+---
+title: "T-minus one year: A plan for Step 1"
+author: Kerim Kaylan
+categories: [ "medical school" ]
+tags: [ "step 1", "anki", "boards", "studying" ]
+date: 2018-05-06
+slug: t-minus-one-year-a-plan-for-step-1
+draft: true
+---
+
+Outline:
+
+- Summary of executable takeaways from the Learning medicine
+- Implementation of takeaways
+- Selection of study materials for board exams
