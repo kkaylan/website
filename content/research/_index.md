@@ -20,10 +20,12 @@ title: Research
 
 <div class="units-row">
 
+<div class="unit-35">
+<img src="/img/liver-development.jpg" alt="Kerim B. Kaylan, Viktoriya Ermilova, Ravi Chandra Yada, and Gregory H. Underhill. 2016. Combinatorial microenvironmental regulation of liver progenitor differentiation by Notch ligands, TGFβ, and extracellular matrix. Scientific Reports 6(23490). DOI: 10.1038/srep23490." hspace="10px" vspace="30px">
+</div>
+
 <div class="unit-65">
 The organogenesis of the liver during embryonic development begins soon after foregut patterning <i>via</i> the specification and expansion of the cells of the liver bud, termed hepatoblasts or liver progenitors. The mechanisms by which these cells populate the liver with its functional parenchymal cells are complex and include multiple modes of microenvironmental regulation, including cell–cell and cell–soluble factor interactions. I am interested in mapping the combinatorial mechanisms by which these cells specify to either hepatocytes or bile duct epithelium. In this context, previous efforts have demonstrated interaction effects between regulation by matrix proteins, Notch signaling, and TGF&beta; as well as unanticipated roles for mechanical cues and cell contractility in the differentiation of these cells. Ultimately, these efforts shed light not only on fundamental aspects of development but also potential mechanisms of pathogenesis, primarily of the various cholangiopathies and other diseases of the biliary system.
 </div>
 
-<div class="unit-35">
-<img src="/img/liver-development.jpg" alt="Kerim B. Kaylan, Viktoriya Ermilova, Ravi Chandra Yada, and Gregory H. Underhill. 2016. Combinatorial microenvironmental regulation of liver progenitor differentiation by Notch ligands, TGFβ, and extracellular matrix. Scientific Reports 6(23490). DOI: 10.1038/srep23490." hspace="10px" vspace="30px">
 </div>
