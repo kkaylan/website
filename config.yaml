@@ -17,15 +17,14 @@ menu:
       - Name: "Publications"
         URL: "/publications"
         Weight: 2
-      - Name: "Resources"
-        URL: "/resources"
+      - Name: "Research"
+        URL: "/research"
         Weight: 3
-      - Name: "Teaching"
-        URL: "/teaching"
-        Weight: 4
       - Name: "Blog"
         URL: "/blog"
-        Weight: 5
+        Weight: 4
+      - Name: "CV"
+        URL: "/pdf/vita.pdf"
 permalinks:
   blog: /blog/archives/:year/:month/:day/:slug
   archive: /blog/archives/
