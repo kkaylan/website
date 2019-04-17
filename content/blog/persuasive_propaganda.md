@@ -1,8 +1,7 @@
 ---
 title: Persuasive propaganda
 author: Kerim Kaylan
-categories: [ "science" ]
-tags: [ "statistics", "jokes" ]
+categories: [ "Science" ]
 date: 2015-12-31
 slug: persuasive-propaganda
 ---

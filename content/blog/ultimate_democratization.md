@@ -1,8 +1,7 @@
 ---
 title: The "ultimate democratization"
 author: Kerim Kaylan
-categories: [ "science" ]
-tags: [ "publishing", "peer review" ]
+categories: [ "Science" ]
 date: 2015-12-20
 slug: ultimate-democratization
 ---

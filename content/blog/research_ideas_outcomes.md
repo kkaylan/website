@@ -1,8 +1,7 @@
 ---
 title: "Research Ideas and Outcomes: The Open Science Journal"
 author: Kerim Kaylan
-categories: [ "science" ]
-tags: [ "publishing", "journals" ]
+categories: [ "Science" ]
 date: 2015-12-20
 slug: research-ideas-outcomes
 ---

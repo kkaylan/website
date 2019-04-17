@@ -1,8 +1,7 @@
 ---
 title: "T-minus one year: A plan for Step 1"
 author: Kerim Kaylan
-categories: [ "medical school" ]
-tags: [ "step 1", "anki", "boards", "studying" ]
+categories: [ "Medical School" ]
 date: 2018-05-06
 slug: t-minus-one-year-a-plan-for-step-1
 draft: true

@@ -1,8 +1,7 @@
 ---
 title: New journal for “single observation publishing”
 author: Kerim Kaylan
-categories: [ "science" ]
-tags: [ "journals", "open access", "publishing" ]
+categories: [ "Science" ]
 date: 2015-12-02
 slug: matters-single-observation
 ---

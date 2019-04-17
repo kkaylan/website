@@ -1,8 +1,7 @@
 ---
 title: Lessons from "Learning medicine"
 author: Kerim Kaylan
-categories: [ "medical school" ]
-tags: [ "learning medicine", "medical education", "boards", "studying" ]
+categories: [ "Medical School" ]
 date: 2018-05-06
 slug: lessons-learning-medicine
 draft: true

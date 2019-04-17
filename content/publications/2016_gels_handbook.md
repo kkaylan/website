@@ -1,8 +1,8 @@
 ---
 title: Hydrogels for hepatic tissue engineering
+author: Kerim B. Kaylan and Gregory H. Underhill
 status: Published
 type: book-chapter
-author: Kerim B. Kaylan and Gregory H. Underhill
 date: 2016-04-01
 publishdate: 2016-04-01
 citation: "&ldquo;Hydrogels for hepatic tissue engineering.&rdquo; In <em>Gels Handbook: Fundamentals, Properties and Applications; Volume 2: Applications of Hydrogels in Regenerative Medicine</em>, edited by Mohammad R. Abidian, Umut A. Gurkan, and Faramarz Edalat. 427-62. Hackensack, NJ: World Scientific."

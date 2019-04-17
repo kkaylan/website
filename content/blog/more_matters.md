@@ -1,8 +1,7 @@
 ---
 title: "More on Matters"
 author: Kerim Kaylan
-categories: [ "science" ]
-tags: [ "journals", "open access", "publishing" ]
+categories: [ "Science" ]
 date: 2015-12-20
 slug: more-matters
 ---

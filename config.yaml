@@ -1,5 +1,6 @@
 ---
 MetaDataFormat: "yaml"
+languageCode: "en-us"
 contentdir: "content"
 layoutdir: "layouts"
 publishdir: "public"
@@ -14,17 +15,18 @@ taxonomy:
     category: "categories"
 menu:
   main:
-      - Name: "Publications"
-        URL: "/publications"
-        Weight: 2
       - Name: "Research"
         URL: "/research"
+        Weight: 2
+      - Name: "Publications"
+        URL: "/publications"
         Weight: 3
       - Name: "Blog"
         URL: "/blog"
         Weight: 4
       - Name: "CV"
         URL: "/pdf/vita.pdf"
+        Weight: 5
 permalinks:
   blog: /blog/archives/:year/:month/:day/:slug
   archive: /blog/archives/

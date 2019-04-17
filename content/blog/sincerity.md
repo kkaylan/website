@@ -1,8 +1,7 @@
 ---
 title: Sincerity
 author: Kerim Kaylan
-categories: [ "quotes" ]
-tags: [ "aikido" ]
+categories: [ "Quotes" ]
 date: 2015-10-24
 slug: sincerity-ueshiba
 ---
