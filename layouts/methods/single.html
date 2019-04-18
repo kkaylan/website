@@ -12,17 +12,17 @@
   </div>
 
   <div class="wrapper">
-    <div class="units-row">	
+    <div class="units-row">
       <div class="unit-20">&nbsp;</div>
-      <div class="unit-60"><h2><a href="">{{ .Title | safeHTML }}</a></h2></div>
+      <div class="unit-60"><h2>{{ .Title | safeHTML }}</h2></div>
     </div>
-    <div class="units-row">		
-      <div class="unit-20 dateblock"><p>{{.Params.author}}, {{ .Params.citation | safeHTML }}</p>
+    <div class="units-row">
+      <div class="unit-20 dateblock"><p>{{.Params.author}}. {{ .Params.citation | safeHTML }} {{ .PublishDate.Format "January 2006" }}.</p>
         {{ if .Params.doi }}<p class="small"><a href="http://dx.doi.org/{{.Params.doi}}">doi:{{.Params.doi}}</a></p>{{ end }}
         {{ if .Params.file }}<p><a href="{{.Site.BaseURL}}files/papers/{{.Params.file}}" class="badge badge-red"><i class="fa fa-file-pdf-o"></i>&nbsp;download pdf</a></p>{{ end }}
 
-        {{ partial "social.html" . }}    
-        
+        {{ partial "social.html" . }}
+
       </div>
       <div class="unit-60">
         {{ .Content }}
@@ -30,15 +30,12 @@
         {{ if .PrevInSection }}
         <a href="{{.PrevInSection.Permalink}}"> &laquo;&nbsp;{{.PrevInSection.Title}}</a> | {{ end }}<a href="{{ $baseurl }}/publications"><em>Publications List</em></a>{{ if .NextInSection }} | <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&raquo; </a>
         {{ end }}
-      </div>      
+      </div>
     </div>
   </div>
 
   <hr class="separator">
-  
+
   {{ partial "whatisthis.html" . }}
-  
-  {{ partial "footer.html" . }} 
 
-
-
+  {{ partial "footer.html" . }}
