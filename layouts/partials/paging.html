@@ -1,26 +1,26 @@
 <div class="wrapper">
   <div class="units-row">
-    <div class="unit-centered unit-40">  
+    <div class="unit-centered unit-40">
       <ul class="pagination">
 
         {{ if .Paginator.HasNext }}
-        <li><a href="{{.Paginator.Next.URL}}">
+        <li><a href="{{.Paginator.Next.Permalink}}">
             « Older&nbsp;
           </a>
         </li>
         {{ end }}
-        <li><span>Page {{.Paginator.PageNumber}} of {{.Paginator.TotalPages}}</span></li>      
+        <li><span>Page {{.Paginator.PageNumber}} of {{.Paginator.TotalPages}}</span></li>
         {{ if .Paginator.HasPrev }}
         <li>
-          <a href="{{.Paginator.Prev.URL}}">
+          <a href="{{.Paginator.Prev.Permalink}}">
             &nbsp;Newer »
           </a>
         </li>
         {{ end }}
       </ul>
 
-      {{ partial "allcats.html" . }}    
-      
+      {{ partial "allcats.html" . }}
+
     </div>
   </div>
-</div>   
+</div>
