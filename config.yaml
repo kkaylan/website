@@ -11,6 +11,7 @@ baseurl: "https://kbkaylan.net/"
 title: "kbkaylan.net"
 CanonifyUrls: true
 rssLimit: 20
+enableInlineShortcodes: true
 taxonomy:
     category: "categories"
 menu:

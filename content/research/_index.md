@@ -1,5 +1,6 @@
 ---
 title: Research
+description: Research
 ---
 
 ## Engineered systems for studying cell fate and function
