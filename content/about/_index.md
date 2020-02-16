@@ -3,9 +3,9 @@ type: page
 title: "About"
 ---
 
-<!-- <div class="units-row"> <div class="unit-25">
-<p><figure><img src="/img/portrait.jpg" width=175></figure></p>
-</div> -->
+<div class="units-row"> <div class="unit-25">
+<p><figure><img src="/img/portrait.jpeg" width=175></figure></p>
+</div>
 
 <div class="unit-75">
 
