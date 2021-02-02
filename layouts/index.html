@@ -23,43 +23,36 @@
 
     <div class="wrapper">
       <div class="units-row">
-        <div class="unit-66">
-          <h3>Recent Blog Posts</h3>
+        <div class="unit-50">
+          <h3>About</h3>
           <div class="units-row-end">
-            <div class="unit-33 dateblock">
+            <div class="unit-50 dateblock">
               &nbsp;
             </div>
-            <div class="unit-66">
+            <div class="unit-50">
 	      <p></p>
 
 	    </div>
           </div>
-          {{ range first 2 ((where .Site.RegularPages.ByDate "Section" "blog").Reverse) }}
-          <div class="units-row-end">
-            <div class="unit-33 dateblock">
-              <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-              <!-- <h4>{{ .Date.Format "2 January 2006" }}</h4> -->
-            </div>
-            <div class="unit-66">
-              {{ if .Truncated }}
-              {{ .Summary }}
-              <p class="text-right"><a href="{{ .RelPermalink }}">Read More…</a></p>
-              {{ else }}
-              {{ .Content }}
-              {{ end }}
-            </div>
+          <div class="units-row"> <div class="unit-25">
+          <p><figure><img src="/img/portrait.jpeg" width=250></figure></p>
           </div>
 
-          {{ end }}
+          <div class="unit-75">
+
+          I am an MD/PhD student at the <a href="http://medicine.uic.edu/">University of Illinois College of Medicine</a>. My doctoral research in the lab of <a href="https://bioengineering.illinois.edu/directory/profile/gunderhi">Professor Gregory Underhill</a> at the University of Illinois at Urbana–Champaign was focused on the development of the liver, specifically using tissue engineering approaches to elucidate the microenvironmental cues which guide differentiation of liver progenitor cells toward hepatocytic or cholangiocytic fates. In my spare time, I enjoy reading, playing viola, programming, strength training, and tennis.
+
+            </div>
+          </div>
 
           <hr>
 
           <div class="units-row-end">
-            <div class="unit-33 dateblock">&nbsp;</div>
+            <div class="unit-50 dateblock">&nbsp;</div>
           </div>
         </div>
 
-        <div class="unit-33">
+        <div class="unit-50">
 
           <h3>Recent Publications</h3>
           <ul class="compact fa-ul">
