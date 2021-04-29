@@ -1,6 +1,6 @@
 ---
 title: Mapping lung tumor cell drug responses as a function of matrix context and genotype using cell microarrays
-author: Kerim B. Kaylan, Stefan D. Gentile, Lauren E. Milling, Kaustubh N. Bhinge, Farhd Kosari, and Gregory H. Underhill
+author: Kerim B. Kaylan, Stefan D. Gentile, Lauren E. Milling, Kaustubh N. Bhinge, Farhad Kosari, and Gregory H. Underhill
 status: Published
 type: article
 date: 2016-10-18
