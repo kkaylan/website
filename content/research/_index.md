@@ -8,7 +8,7 @@ description: Research
 <div class="units-row">
 
 <div class="unit-35">
-<img src="/img/engineered-system.jpg" alt="Andreas P. Kourouklis, Kerim B. Kaylan, and Gregory H. Underhill. 2016. Substrate stiffness and matrix composition coordinately control the differentiation of liver progenitor cells. Biomaterials 99: 92–94. DOI: 10.1016/j.biomaterials.2016.05.016." width="250px" max-width="400px" height="auto" align="left" hspace="20px" vspace="10px">
+<img src="/img/engineered-system.jpg" alt="Andreas P. Kourouklis, Kerim B. Kaylan, and Gregory H. Underhill. 2016. Substrate stiffness and matrix composition coordinately control the differentiation of liver progenitor cells. Biomaterials 99: 92–94. DOI: 10.1016/j.biomaterials.2016.05.016." hspace="20px" vspace="10px">
 </div>
 
 <div class="unit-65">

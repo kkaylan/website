@@ -2,7 +2,7 @@
 title: Treatment strategies for antibody-mediated rejection in kidney transplantation and its prevention
 author: Pierpaolo Di Cocco, Alberto Fratti, Kerim B. Kaylan, Ivo G. Tzvetanov, Enrico Benedetti
 status: Published
-type: article
+type: review
 date: 2020-09-21
 publishdate: 2020-09-28
 citation: "&ldquo;Treatment strategies for antibody-mediated rejection in kidney transplantation and its prevention.&rdquo; <em>OBM Transplantation</em> 4(3): 16."

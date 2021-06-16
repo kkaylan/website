@@ -73,6 +73,26 @@
             </div>
           </div>
           {{ end }}
+          <h2>Review Articles</h2>
+          {{ range (where .Data.Pages "Type" "review").GroupByDate "2006" "desc" }}
+          <div class="units-row">
+            <div class="unit-10">
+              <h3>{{ .Key }}</h3>
+            </div>
+            <div class="unit-90">
+              <ul class="compact fa-ul">
+          {{ range .Pages.ByDate.Reverse }}
+                <li><i class="fa-li fa  {{ if eq .Type "review" }}fa-newspaper-o {{ else if eq .Params.kind "book" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i>{{ .Params.author | safeHTML }}. {{ .Params.citation | safeHTML }}
+                  <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
+                  {{ if isset .Params "file" }}
+                  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
+                  {{ end }}
+                </li>
+          {{ end }}
+              </ul>
+            </div>
+          </div>
+          {{ end }}
           <h2>Book Chapters</h2>
           {{ range (where .Data.Pages "Type" "book-chapter").GroupByDate "2006" "desc" }}
           <div class="units-row">
