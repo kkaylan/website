@@ -8,3 +8,4 @@ static/css/stylesheet.css
 static/css/syntax-min.css
 static/
 .DS_Store
+.hugo_build.lock
