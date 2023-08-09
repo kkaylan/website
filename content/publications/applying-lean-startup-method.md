@@ -5,7 +5,7 @@ status: Published
 type: article
 date: 2021-06-14
 publishdate: 2021-06-14
-citation: "&ldquo;Applying the Lean Startup Method to Structure Project-Based, Student-Driven Curricular Enhancements.&rdquo; <em>Teaching and Learning in Medicine</em> (published online ahead of print)."
+citation: "&ldquo;Applying the Lean Startup Method to Structure Project-Based, Student-Driven Curricular Enhancements.&rdquo; <em>Teaching and Learning in Medicine</em> 34(4): 434-43."
 doi: 10.1080/10401334.2021.1928501
 ---
 Problem: Formal medical student engagement in curricular evaluation provides significant value through identification of opportunities for curricular change. Students provide diverse perspectives and have a unique vantage point, which allows them to see aspects of the curriculum that educators and administrators might not recognize. Current descriptions of student engagement are focused largely on collection, analysis, and presentation of summative feedback in the pre-clerkship curriculum. However, medical students could potentially contribute to curricular improvement in ways extending beyond post hoc curricular evaluation. Student teams focused on identification of specific needs and project-based implementation of solutions represent one means of doing so but require a structured, organizing method in order to succeed.
